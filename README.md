@@ -59,8 +59,4 @@ The plugin is available as open source under the terms of the [MIT License](http
 
 -------------------------------------------------------------------------------
 
-[![alt text](https://raw.githubusercontent.com/ergoserv/auxiliary_rails/master/assets/ErgoServ_horizontalColor@sign+text+bg.png "ErgoServ - Web and Mobile Development Company")](https://www.ergoserv.com)
 
-This exodus plugin was created and is maintained by [ErgoServ](https://www.ergoserv.com).
-
-If you like what you see and would like to hire us or join us, [get in touch](https://www.ergoserv.com)!
